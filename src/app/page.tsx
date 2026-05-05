@@ -29,10 +29,6 @@ function page() {
           <Project user="vike-and-sell" blurb={blurbs.vikeandsell}/>
           <Project user="paynejones" repo="portfolio-site" blurb={blurbs.site}/>
         </div>
-        <h1 className={styles.worktitle}>Contact Me</h1>
-        <div className={styles.contactme}>
-          <Contact/>
-        </div>
       </div>
     </div>
   );
